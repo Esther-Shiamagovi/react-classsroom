@@ -8,7 +8,7 @@ const Users = ()=>{
     return (
         <div>
         <div>
-        <button type="submit" className="btnlogin">login</button>
+        {/* <button type="submit" className="btnlogin">login</button> */}
         </div>
         <div className="imageView">
 {loading && <h2>Loading users...</h2>}
