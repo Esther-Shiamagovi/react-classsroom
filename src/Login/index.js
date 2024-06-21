@@ -1,4 +1,3 @@
-// import { logDOM } from "@testing-library/react"
 import "./index.css";
 import { useState } from "react";
 import { login } from "./utils";
