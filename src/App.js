@@ -1,4 +1,4 @@
-import About from "./About";
+import Users from "./Users";
 
 export const Introduction = ()=>{
   return <h2>What is React?</h2>;
@@ -7,10 +7,9 @@ export const Introduction = ()=>{
 const App= ()=>{
   return (
     <div>
-      <h1>Introduction to React.JS</h1>
-      <Introduction/>
-<About/>
+      <Users/>      
     </div>
   )
 }
 export default App;
+

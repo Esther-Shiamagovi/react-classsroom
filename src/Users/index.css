@@ -1,0 +1,25 @@
+.btnlogin{
+    border: none;
+    border-radius: 5px;
+    border-color: rgb(80, 154, 7);
+    padding: 10px 5px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 70%;
+    margin-top: 0.3%;
+    width: 15%;
+}
+.imageView{
+    margin-top: 1.14%;
+    margin-left: 3%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    gap: 40px;
+    background-color:white;
+    width: 60%;
+    padding: 10px;
+}
